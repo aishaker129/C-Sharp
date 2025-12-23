@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aishaker/Desktop/C#/C-Sharp/Problem/HelloApp/HelloApp.csproj": {}
+    "/home/aishaker/Desktop/C#/C-Sharp/Problem/task1/task1.csproj": {}
   },
   "projects": {
-    "/home/aishaker/Desktop/C#/C-Sharp/Problem/HelloApp/HelloApp.csproj": {
+    "/home/aishaker/Desktop/C#/C-Sharp/Problem/task1/task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aishaker/Desktop/C#/C-Sharp/Problem/HelloApp/HelloApp.csproj",
-        "projectName": "HelloApp",
-        "projectPath": "/home/aishaker/Desktop/C#/C-Sharp/Problem/HelloApp/HelloApp.csproj",
+        "projectUniqueName": "/home/aishaker/Desktop/C#/C-Sharp/Problem/task1/task1.csproj",
+        "projectName": "task1",
+        "projectPath": "/home/aishaker/Desktop/C#/C-Sharp/Problem/task1/task1.csproj",
         "packagesPath": "/home/aishaker/.nuget/packages/",
-        "outputPath": "/home/aishaker/Desktop/C#/C-Sharp/Problem/HelloApp/obj/",
+        "outputPath": "/home/aishaker/Desktop/C#/C-Sharp/Problem/task1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aishaker/.nuget/NuGet/NuGet.Config"
