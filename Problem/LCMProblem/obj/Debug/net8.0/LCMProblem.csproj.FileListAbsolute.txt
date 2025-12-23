@@ -1,0 +1,15 @@
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/bin/Debug/net8.0/LCMProblem
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/bin/Debug/net8.0/LCMProblem.deps.json
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/bin/Debug/net8.0/LCMProblem.runtimeconfig.json
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/bin/Debug/net8.0/LCMProblem.dll
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/bin/Debug/net8.0/LCMProblem.pdb
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/obj/Debug/net8.0/LCMProblem.GeneratedMSBuildEditorConfig.editorconfig
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/obj/Debug/net8.0/LCMProblem.AssemblyInfoInputs.cache
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/obj/Debug/net8.0/LCMProblem.AssemblyInfo.cs
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/obj/Debug/net8.0/LCMProblem.csproj.CoreCompileInputs.cache
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/obj/Debug/net8.0/LCMProblem.sourcelink.json
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/obj/Debug/net8.0/LCMProblem.dll
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/obj/Debug/net8.0/refint/LCMProblem.dll
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/obj/Debug/net8.0/LCMProblem.pdb
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/obj/Debug/net8.0/LCMProblem.genruntimeconfig.cache
+/home/aishaker/Desktop/C#/C-Sharp/Problem/LCMProblem/obj/Debug/net8.0/ref/LCMProblem.dll
