@@ -1,0 +1,15 @@
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/obj/Debug/net8.0/Watermelon.GeneratedMSBuildEditorConfig.editorconfig
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/obj/Debug/net8.0/Watermelon.AssemblyInfoInputs.cache
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/obj/Debug/net8.0/Watermelon.AssemblyInfo.cs
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/obj/Debug/net8.0/Watermelon.csproj.CoreCompileInputs.cache
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/obj/Debug/net8.0/Watermelon.sourcelink.json
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/bin/Debug/net8.0/Watermelon
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/bin/Debug/net8.0/Watermelon.deps.json
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/bin/Debug/net8.0/Watermelon.runtimeconfig.json
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/bin/Debug/net8.0/Watermelon.dll
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/bin/Debug/net8.0/Watermelon.pdb
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/obj/Debug/net8.0/Watermelon.dll
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/obj/Debug/net8.0/refint/Watermelon.dll
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/obj/Debug/net8.0/Watermelon.pdb
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/obj/Debug/net8.0/Watermelon.genruntimeconfig.cache
+/home/aishaker/Desktop/C#/C-Sharp/Problem/Watermelon/obj/Debug/net8.0/ref/Watermelon.dll
