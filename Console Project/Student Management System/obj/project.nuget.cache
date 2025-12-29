@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hQmcklJTW30=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\Student Management System\\Student Management System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aisha\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.1\\microsoft.dotnet.ilcompiler.10.0.1.nupkg.sha512",
+    "C:\\Users\\aisha\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.1\\microsoft.net.illink.tasks.10.0.1.nupkg.sha512",
+    "C:\\Users\\aisha\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
