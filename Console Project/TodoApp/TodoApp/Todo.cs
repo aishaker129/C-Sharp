@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace TodoApp
+{
+    internal class Todo
+    {
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public bool IsCompleted { get; set; }
+        //public Todo(int id, string title)
+        //{
+        //    Id = id;
+        //    Title = title;
+        //    IsCompleted = false;
+        //}
+        //public override string ToString()
+        //{
+        //    return $"{Id}: {Title} - {(IsCompleted ? "Completed" : "Pending")}";
+        //}
+    }
+}

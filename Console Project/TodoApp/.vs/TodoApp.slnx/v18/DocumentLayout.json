@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F71533A-6B77-4C94-9160-53DA1FDC9840}|..\\Student Management System\\Student Management System.csproj|c:\\users\\aisha\\onedrive\\desktop\\csharp\\student management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F71533A-6B77-4C94-9160-53DA1FDC9840}|..\\Student Management System\\Student Management System.csproj|c:\\users\\aisha\\onedrive\\desktop\\csharp\\student management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F71533A-6B77-4C94-9160-53DA1FDC9840}|..\\Student Management System\\Student Management System.csproj|c:\\users\\aisha\\onedrive\\desktop\\csharp\\student management system\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEE5F41-17EB-4460-9F2D-E85F1F006DF4}|TodoApp\\TodoApp.csproj|c:\\users\\aisha\\onedrive\\desktop\\csharp\\todoapp\\todoapp\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEE5F41-17EB-4460-9F2D-E85F1F006DF4}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\TodoApp\\TodoApp\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Todo.cs",
+              "ToolTip": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\TodoApp\\TodoApp\\Todo.cs",
+              "RelativeToolTip": "TodoApp\\Todo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T01:02:11.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\Student Management System\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\Student Management System\\StudentService.cs",
+              "ToolTip": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\Student Management System\\StudentService.cs",
+              "RelativeToolTip": "..\\Student Management System\\StudentService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwGIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T01:54:03.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\Student Management System\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Student Management System\\Student.cs",
+              "ToolTip": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\Student Management System\\Student.cs",
+              "RelativeToolTip": "..\\Student Management System\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T01:51:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\Student Management System\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Student Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\Student Management System\\Program.cs",
+              "RelativeToolTip": "..\\Student Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T01:50:58.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

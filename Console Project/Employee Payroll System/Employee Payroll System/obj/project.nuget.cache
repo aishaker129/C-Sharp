@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVxOSK9/cSs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aisha\\OneDrive\\Desktop\\CSharp\\Employee Payroll System\\Employee Payroll System\\Employee Payroll System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aisha\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.1\\microsoft.dotnet.ilcompiler.10.0.1.nupkg.sha512",
+    "C:\\Users\\aisha\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.1\\microsoft.net.illink.tasks.10.0.1.nupkg.sha512",
+    "C:\\Users\\aisha\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
